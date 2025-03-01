@@ -1,0 +1,2 @@
+mode,o_zone_id,d_zone_id,o_x_coord,o_y_coord,d_x_coord,d_y_coord,total_distance_mile,total_distance_km,total_free_flow_travel_time,total_congestion_travel_time,volume,
+auto,1,2,0,-0.1,40.3,0.1,0.0124301,0.02,0.022,0.0287405,7000

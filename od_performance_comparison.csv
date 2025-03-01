@@ -1,0 +1,2 @@
+mode,o_zone_id,d_zone_id,total_free_flow_travel_time_before,total_free_flow_travel_time_after,free_flow_diff,total_congestion_travel_time_before,total_congestion_travel_time_after,congestion_diff,volume_before,volume_after,volume_diff
+auto,1,2,0.02,0.022,0.0019999999999999983,0.0201099,0.0287405,0.008630599999999999,7000,7000,0
