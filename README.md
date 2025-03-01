@@ -1,4 +1,4 @@
-# DTA Sensitivity Analysis for Specific Links Change
+# DTA Sensitivity Analysis for Specific Links Closure
 
 This repository demonstrates how to perform a **Dynamic Traffic Assignment (DTA)** sensitivity analysis using **DTALite**. The primary goal is to see how changes to certain link attributes (e.g., lanes, free speed, capacity) affect network-wide performance metrics such as link travel times, OD travel times, and volumes.
 
