@@ -1,0 +1,16 @@
+# Ignore all hidden system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore node_modules for JavaScript projects
+node_modules/
+
+# Ignore environment files
+.env
