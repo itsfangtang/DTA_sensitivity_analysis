@@ -310,15 +310,16 @@ def sensitivity_pipeline(network_file, modifications, baseline_folder, modified_
 
 # -------------------------
 
-# Path to your network file (e.g., 'link.csv')
-network_file = 'link.csv'
-
 # Define network modifications.
 # Each dict must include 'from_node_id' and 'to_node_id' and any attribute to update.
 modifications = [
     {'from_node_id': 1, 'to_node_id': 4, 'lanes': 3, 'free_speed': 70},
     {'from_node_id': 3, 'to_node_id': 2, 'free_speed': 50, 'capacity': 1500}
 ]
+
+
+# Path to your network file (e.g., 'link.csv')
+network_file = 'link.csv'
 
 # Define output folders for baseline and modified simulation results.
 baseline_folder = "Before"
